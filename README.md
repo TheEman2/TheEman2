@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheEman2
+- 👋 Hi, I’m Loxur
 - 👀 I’m interested in HTML.
 - 🌱 I’m currently learning HTMl, and a little bit of javascript.
 - ✖ I'm not looking to collaborate, sorry, I might change my mind, but for now I don't want to collaborate with anyone.
